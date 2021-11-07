@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Development Engineer Intern
+    company: Rescond
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: ''
+    location: Beijing
+    date_start: '2021-06-01'
+    date_end: '2021-09-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+      * Developed digital-to-analog programs for generating electrocardiogram at different heart conditions and helped pass more than 100 tests as well as improve the accuracy of ECG on the defibrillator.
+      * Designed and built testing program on the Microcontroller of automated external defibrillator within an agile team and made the tests more specific and boosted the process two times faster.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant at Ethos Lab
+    company: tony Brook University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Stony Brook, NY
+    date_start: '2019-05-20'
+    date_end: '2020-12-17'
+    description: Analyzed and optimized Machine Learning related projects and made improvements over 10 real-world projects with a weekly presentation in a team of four.
 
 design:
   columns: '2'

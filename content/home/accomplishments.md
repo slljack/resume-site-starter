@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
+active: fasle
+
 # This file represents a page section.
 headless: true
 
