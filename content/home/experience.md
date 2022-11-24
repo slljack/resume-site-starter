@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Software Development Engineer Intern
+  company: COSCO Shipping
+  company_url: ''
+  company_logo: ''
+  location: Shanghai
+  date_start: '2022-09-01'
+  date_end: ''
+  description: |2-
+      Responsibilities include:
+
+      Developed an algorithm that predicts the ship’s cargo volume given the Draft and the Deadweight tonnage with about 80% accuracy. Also utilized the algorithm to determine the ship’s loading status and detect the unmarked ports or Floating Storage such as FSO and FPSO.
+
   - title: Software Development Engineer Intern
     company: Rescond
     company_url: ''
@@ -31,10 +43,10 @@ experience:
     date_end: '2021-09-01'
     description: |2-
         Responsibilities include:
-        
+
       * Developed digital-to-analog programs for generating electrocardiogram at different heart conditions and helped pass more than 100 tests as well as improve the accuracy of ECG on the defibrillator.
       * Designed and built testing program on the Microcontroller of automated external defibrillator within an agile team and made the tests more specific and boosted the process two times faster.
-        
+
   - title: Research Assistant at Ethos Lab
     company: tony Brook University
     company_url: ''
