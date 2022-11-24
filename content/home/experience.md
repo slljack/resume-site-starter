@@ -22,17 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Software Development Engineer Intern
-  company: COSCO Shipping
-  company_url: ''
-  company_logo: ''
-  location: Shanghai
-  date_start: '2022-09-01'
-  date_end: ''
-  description: |2-
-      Responsibilities include:
 
-      Developed an algorithm that predicts the ship’s cargo volume given the Draft and the Deadweight tonnage with about 80% accuracy. Also utilized the algorithm to determine the ship’s loading status and detect the unmarked ports or Floating Storage such as FSO and FPSO.
+  - title: Software Development Engineer Intern
+    company: COSCO Shipping
+    company_url: ''
+    company_logo: ''
+    location: Shanghai
+    date_start: '2022-09-01'
+    date_end: ''
+    description: Developed an algorithm that predicts the ship’s cargo volume given the Draft and the Deadweight tonnage with about 80% accuracy. Also utilized the algorithm to determine the ship’s loading status and detect the unmarked ports or Floating Storage such as FSO and FPSO.
 
   - title: Software Development Engineer Intern
     company: Rescond
@@ -57,5 +55,5 @@ experience:
     description: Analyzed and optimized Machine Learning related projects and made improvements over 10 real-world projects with a weekly presentation in a team of four.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
