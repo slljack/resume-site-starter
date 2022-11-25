@@ -26,8 +26,8 @@ experience:
   - title: Software Development Engineer Intern
     company: COSCO Shipping
     company_url: ''
-    company_logo: ''
-    location: Shanghai
+    company_logo: uploads/COSCO_logo.svg
+    location:
     date_start: '2022-09-01'
     date_end: ''
     description: Developed an algorithm that predicts the ship’s cargo volume given the Draft and the Deadweight tonnage with about 80% accuracy. Also utilized the algorithm to determine the ship’s loading status and detect the unmarked ports or Floating Storage such as FSO and FPSO.
@@ -35,8 +35,8 @@ experience:
   - title: Software Development Engineer Intern
     company: Rescond
     company_url: ''
-    company_logo: ''
-    location: Beijing
+    company_logo: uploads/rescond.jpeg
+    location:
     date_start: '2021-06-01'
     date_end: '2021-09-01'
     description: |2-
@@ -48,8 +48,8 @@ experience:
   - title: Research Assistant at Ethos Lab
     company: tony Brook University
     company_url: ''
-    company_logo: ''
-    location: Stony Brook, NY
+    company_logo: uploads/sbu.png
+    location:
     date_start: '2019-05-20'
     date_end: '2020-12-17'
     description: Analyzed and optimized Machine Learning related projects and made improvements over 10 real-world projects with a weekly presentation in a team of four.

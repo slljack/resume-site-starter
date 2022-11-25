@@ -64,7 +64,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a Master student at Stony Brook University majoring in Computer Science. My current interests include Algorithms, Machine Learning. Most of my works are done in Java, Python, and C, but I am also experienced with other languages specified on my [resume](uploads/resume.pdf). I am looking for a software development internship for Summer 2022. You can find some of my projects below.
+I'm a Master student at Stony Brook University majoring in Computer Science. My current interests include Algorithms, Machine Learning. Most of my works are done in Java, Python, and C, but I am also experienced with other languages specified on my [resume](uploads/resume.pdf). I am looking for a software development internship for Summer 2023.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
