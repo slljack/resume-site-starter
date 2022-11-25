@@ -27,7 +27,7 @@ education:
   courses:
   - course: MS in Computer Science
     institution: Stony Brook University
-    year: 2022
+    year: 2024
   - course: BS in Computer Science & Applied Mathematics
     institution: Stony Brook University
     year: 2021
@@ -51,7 +51,7 @@ social:
   link: uploads/resume.pdf
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
