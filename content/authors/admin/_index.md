@@ -25,10 +25,10 @@ superuser: true
 # Education to show in About widget
 education:
   courses:
-  - course: MS in Computer Science
+  - course: M.S. in Computer Science
     institution: State University of New York at Stony Brook
     year:
-  - course: BS in Computer Science & Applied Math and statistics
+  - course: B.S. in Computer Science & Applied Math and Statistics
     institution: State University of New York at Stony Brook
     year:
 
