@@ -26,7 +26,7 @@ experience:
   - title: Software Development Engineer Intern
     company: COSCO Shipping
     company_url: ''
-    company_logo: uploads/COSCO_logo.svg
+    company_logo: COSCO_logo
     location:
     date_start: '2022-09-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Software Development Engineer Intern
     company: Rescond
     company_url: ''
-    company_logo: uploads/rescond.jpeg
+    company_logo: ''
     location:
     date_start: '2021-06-01'
     date_end: '2021-09-01'
@@ -48,7 +48,7 @@ experience:
   - title: Research Assistant at Ethos Lab
     company: tony Brook University
     company_url: ''
-    company_logo: uploads/sbu.png
+    company_logo: ''
     location:
     date_start: '2019-05-20'
     date_end: '2020-12-17'
