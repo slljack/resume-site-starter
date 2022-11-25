@@ -27,10 +27,10 @@ education:
   courses:
   - course: MS in Computer Science
     institution: State University of New York at Stony Brook
-    year: 2024
+    year:
   - course: BS in Computer Science & Applied Math and statistics
     institution: State University of New York at Stony Brook
-    year: 2021
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
