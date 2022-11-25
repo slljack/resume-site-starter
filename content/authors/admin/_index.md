@@ -26,10 +26,10 @@ superuser: true
 education:
   courses:
   - course: MS in Computer Science
-    institution: Stony Brook University
+    institution: State University of New York at Stony Brook
     year: 2024
   - course: BS in Computer Science & Applied Mathematics
-    institution: Stony Brook University
+    institution: State University of New York at Stony Brook
     year: 2021
 
 # Social/Academic Networking
